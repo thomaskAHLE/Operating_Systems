@@ -5,6 +5,6 @@ Programs written for Operating Systems course
 
 Modified implementation of simple file operations to prevent the user from writing "MZ" in the first two bytes of the file
 
-#Prog 2
+# Prog 2
 
-Simulated Multi-Level Feedback queue scheduler 
+Simulated Multi-Level Feedback queue scheduler. Priority Queue file written by Dr. Golden Richard 
